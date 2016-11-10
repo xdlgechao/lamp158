@@ -27,4 +27,6 @@ echo '';
 
 echo 'cccccccccccc';
 echo 'ddddddaaaaaaa';
+
+echo '想哭';
 ?>
